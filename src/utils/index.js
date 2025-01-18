@@ -4,7 +4,7 @@ import {SetPosts} from "../redux/postSlice.js"
 
 
 
-const API_URL = "https://social-media-mern-827y.onrender.com";
+const API_URL = "https://social-media-mern-gl4f.onrender.com";
 
 export const API = axios.create({
   baseURL: API_URL,
